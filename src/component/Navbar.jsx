@@ -14,7 +14,7 @@ export const Navbar = () => {
         <Heading size='md'><Link className="nav-link home" to={"/"}>Home</Link></Heading>
       </Box>
       <Box p='2'>
-        <Heading size='md'><Link className="nav-link about" to={"/about"}>About</Link></Heading>
+        <Heading size='md'><Link className="nav-link about" to={"/abouts"}>About</Link></Heading>
       </Box>
       <Box p='2'>
         <Heading size='md'><Link className="nav-link contact" to={"/contact"}>Contact</Link></Heading>

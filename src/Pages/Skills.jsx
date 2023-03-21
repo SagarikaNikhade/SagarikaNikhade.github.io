@@ -2,7 +2,7 @@ import React from 'react'
 
 const Skills = () => {
   return (
-    <div>
+    <div className="nav-link skills">
       
     </div>
   )

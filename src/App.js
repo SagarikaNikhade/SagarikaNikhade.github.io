@@ -1,11 +1,10 @@
 import './App.css';
-import {Navbar} from './Components/Navbar';
-import Home from './Pages/Home';
-import About from './Pages/About';
-import Contact from './Pages/Contact';
-import Project from './Pages/Projects';
-import Resume from './Pages/Resume';
-// import {MainRoute} from './Pages/MainRoute';
+import {Navbar} from './component/Navbar';
+import Home from './component/Home';
+import About from './component/About';
+import Contact from './component/Contact';
+import Project from './component/Projects';
+import Resume from './component/Resume';
 
 function App() {
   return (

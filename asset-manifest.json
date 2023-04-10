@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.0c83212b.css",
-    "main.js": "/static/js/main.bc6d2cb9.js",
+    "main.js": "/static/js/main.f88f2a2a.js",
     "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.666f9aa526d59c6caaa1.pdf",
     "static/media/sagaLogo.png": "/static/media/sagaLogo.6152610742fd7350829a.png",
     "index.html": "/index.html",
     "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
-    "main.bc6d2cb9.js.map": "/static/js/main.bc6d2cb9.js.map"
+    "main.f88f2a2a.js.map": "/static/js/main.f88f2a2a.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83212b.css",
-    "static/js/main.bc6d2cb9.js"
+    "static/js/main.f88f2a2a.js"
   ]
 }

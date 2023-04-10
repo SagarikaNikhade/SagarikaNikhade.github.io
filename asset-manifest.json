@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.f1bc7f3c.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "main.css": "/static/css/main.0c83212b.css",
+    "main.js": "/static/js/main.bc6d2cb9.js",
+    "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.666f9aa526d59c6caaa1.pdf",
+    "static/media/sagaLogo.png": "/static/media/sagaLogo.6152610742fd7350829a.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.f1bc7f3c.js.map": "/static/js/main.f1bc7f3c.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
+    "main.bc6d2cb9.js.map": "/static/js/main.bc6d2cb9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f1bc7f3c.js"
+    "static/css/main.0c83212b.css",
+    "static/js/main.bc6d2cb9.js"
   ]
 }

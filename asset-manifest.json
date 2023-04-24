@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c83212b.css",
-    "main.js": "/static/js/main.2a65fb87.js",
+    "main.js": "/static/js/main.6f7cf6d0.js",
     "static/media/sagarika.jpg": "/static/media/sagarika.d8d8b33a6e7e8862fcd5.jpg",
     "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.666f9aa526d59c6caaa1.pdf",
     "static/media/mongooseIcon.png": "/static/media/mongooseIcon.51275a001caf5e6e30d4.png",
@@ -16,10 +16,10 @@
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "index.html": "/index.html",
     "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
-    "main.2a65fb87.js.map": "/static/js/main.2a65fb87.js.map"
+    "main.6f7cf6d0.js.map": "/static/js/main.6f7cf6d0.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83212b.css",
-    "static/js/main.2a65fb87.js"
+    "static/js/main.6f7cf6d0.js"
   ]
 }

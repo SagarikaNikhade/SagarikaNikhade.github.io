@@ -1,16 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.0c83212b.css",
-    "main.js": "/static/js/main.694821cf.js",
+    "main.js": "/static/js/main.2a65fb87.js",
     "static/media/sagarika.jpg": "/static/media/sagarika.d8d8b33a6e7e8862fcd5.jpg",
     "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.666f9aa526d59c6caaa1.pdf",
+    "static/media/mongooseIcon.png": "/static/media/mongooseIcon.51275a001caf5e6e30d4.png",
+    "static/media/react.png": "/static/media/react.b19a7ea62269e54657b2.png",
+    "static/media/redux.png": "/static/media/redux.46e8618ce89398c3059c.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.b843cb055a10f45fea29.png",
+    "static/media/express.png": "/static/media/express.39a0f4c3d981885c64f8.png",
     "static/media/sagaLogo.png": "/static/media/sagaLogo.6152610742fd7350829a.png",
+    "static/media/html5.png": "/static/media/html5.6e4a5621783c3c8c0667.png",
+    "static/media/css3.png": "/static/media/css3.68ba79f50e3278164cb8.png",
+    "static/media/nextjs.svg": "/static/media/nextjs.cafd8635c931995339fcc14ceb8a5eb7.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "index.html": "/index.html",
     "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
-    "main.694821cf.js.map": "/static/js/main.694821cf.js.map"
+    "main.2a65fb87.js.map": "/static/js/main.2a65fb87.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83212b.css",
-    "static/js/main.694821cf.js"
+    "static/js/main.2a65fb87.js"
   ]
 }

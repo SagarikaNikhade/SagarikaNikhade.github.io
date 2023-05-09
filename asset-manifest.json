@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0c83212b.css",
-    "main.js": "/static/js/main.b51b022d.js",
+    "main.js": "/static/js/main.308c3089.js",
     "static/media/Flowery.png": "/static/media/Flowery.efb314169427a9bf62fe.png",
     "static/media/Royal.png": "/static/media/Royal.90a7dffc11cd5ac4630b.png",
     "static/media/CraftVilla.png": "/static/media/CraftVilla.15bd3079c16f0db1ee14.png",
@@ -10,7 +10,6 @@
     "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.666f9aa526d59c6caaa1.pdf",
     "static/media/mongooseIcon.png": "/static/media/mongooseIcon.51275a001caf5e6e30d4.png",
     "static/media/react.png": "/static/media/react.b19a7ea62269e54657b2.png",
-    "static/media/sagaLogo.png": "/static/media/sagaLogo.c5cc80f6a90e2c91d2b5.png",
     "static/media/redux.png": "/static/media/redux.46e8618ce89398c3059c.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.b843cb055a10f45fea29.png",
     "static/media/express.png": "/static/media/express.39a0f4c3d981885c64f8.png",
@@ -20,10 +19,10 @@
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "index.html": "/index.html",
     "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
-    "main.b51b022d.js.map": "/static/js/main.b51b022d.js.map"
+    "main.308c3089.js.map": "/static/js/main.308c3089.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83212b.css",
-    "static/js/main.b51b022d.js"
+    "static/js/main.308c3089.js"
   ]
 }

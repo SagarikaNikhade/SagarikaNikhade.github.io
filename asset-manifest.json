@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.0c83212b.css",
-    "main.js": "/static/js/main.068f5536.js",
+    "main.js": "/static/js/main.4eb4a9d8.js",
     "static/media/fortisi.png": "/static/media/fortisi.4db79cd6244f612acef8.png",
     "static/media/Flowery.png": "/static/media/Flowery.efb314169427a9bf62fe.png",
-    "static/media/Royal.png": "/static/media/Royal.90a7dffc11cd5ac4630b.png",
+    "static/media/Royal.png": "/static/media/Royal.efabb9883959d435d65f.png",
     "static/media/CraftVilla.png": "/static/media/CraftVilla.15bd3079c16f0db1ee14.png",
     "static/media/Jefit.png": "/static/media/Jefit.0456b95c33c8366d07a7.png",
     "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.0a00601a0f7c222ce5b1.pdf",
@@ -20,10 +20,10 @@
     "static/media/tailwind.svg": "/static/media/tailwind.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "index.html": "/index.html",
     "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
-    "main.068f5536.js.map": "/static/js/main.068f5536.js.map"
+    "main.4eb4a9d8.js.map": "/static/js/main.4eb4a9d8.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83212b.css",
-    "static/js/main.068f5536.js"
+    "static/js/main.4eb4a9d8.js"
   ]
 }

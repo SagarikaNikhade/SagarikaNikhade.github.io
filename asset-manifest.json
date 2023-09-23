@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.0c83212b.css",
-    "main.js": "/static/js/main.cb37d89b.js",
+    "main.js": "/static/js/main.88f1d002.js",
     "static/media/fortisi.png": "/static/media/fortisi.4db79cd6244f612acef8.png",
     "static/media/Flowery.png": "/static/media/Flowery.efb314169427a9bf62fe.png",
+    "static/media/Green.png": "/static/media/Green.ffabc2c9a817a97fd556.png",
     "static/media/Royal.png": "/static/media/Royal.efabb9883959d435d65f.png",
     "static/media/CraftVilla.png": "/static/media/CraftVilla.15bd3079c16f0db1ee14.png",
     "static/media/Jefit.png": "/static/media/Jefit.0456b95c33c8366d07a7.png",
     "static/media/Sagarika_Nikhade_Resume.pdf": "/static/media/Sagarika_Nikhade_Resume.0a00601a0f7c222ce5b1.pdf",
-    "static/media/sagarika.jpg": "/static/media/sagarika.d8d8b33a6e7e8862fcd5.jpg",
+    "static/media/SagarikaP.jpg": "/static/media/SagarikaP.d8d8b33a6e7e8862fcd5.jpg",
     "static/media/mongooseIcon.png": "/static/media/mongooseIcon.51275a001caf5e6e30d4.png",
     "static/media/react.png": "/static/media/react.b19a7ea62269e54657b2.png",
     "static/media/VsCode.png": "/static/media/VsCode.d793c746fbc937f66e3d.png",
@@ -18,10 +19,10 @@
     "static/media/css3.png": "/static/media/css3.68ba79f50e3278164cb8.png",
     "index.html": "/index.html",
     "main.0c83212b.css.map": "/static/css/main.0c83212b.css.map",
-    "main.cb37d89b.js.map": "/static/js/main.cb37d89b.js.map"
+    "main.88f1d002.js.map": "/static/js/main.88f1d002.js.map"
   },
   "entrypoints": [
     "static/css/main.0c83212b.css",
-    "static/js/main.cb37d89b.js"
+    "static/js/main.88f1d002.js"
   ]
 }

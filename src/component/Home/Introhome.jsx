@@ -1,13 +1,12 @@
 import { ColorfullCSS } from "../styles/styles";
 import { Link } from "react-scroll";
-import Sagarika_Nikhade_Resume from "./Sagarika_Nikhade_Resume.pdf";
+// import SagarikaP from "./SagarikaP.pdf";
 import { DownloadIcon } from "@chakra-ui/icons";
 import {
   Box,
   Button,
   Flex,
   Heading,
-  Image,
   Stack,
   Text,
   useBreakpointValue,
@@ -109,7 +108,9 @@ export default function Introhome() {
                   onClick={handleResume}
                 >
                   <a
-                 href={Sagarika_Nikhade_Resume} download={true} target='_blank'
+                //  href={SagarikaP} 
+                href="https://drive.google.com/file/d/1wdvRe1jUn7x-yRxI1aFdAQcAx_ZP_UtJ/view?usp=sharing"
+                 download={true} target='_blank'
                 id="resume-link-2"
                 onClick={click ? handleClick : null}
               >

@@ -1,4 +1,4 @@
-import { Box, Button, Flex, HStack, Heading, Spacer, useDisclosure, Text } from "@chakra-ui/react";
+import { Box, Button, Flex, HStack, Heading, Spacer, useDisclosure } from "@chakra-ui/react";
 import React from "react";
 import { Link } from "react-scroll";
 import Sagarika_Nikhade_Resume from "./Sagarika_Nikhade_Resume.pdf";

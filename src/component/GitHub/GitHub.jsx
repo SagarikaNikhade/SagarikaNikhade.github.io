@@ -13,16 +13,16 @@ const GitHub = () => {
       </Box>
       <br />
       <Flex justifyContent={"center"} pb={6} pt={6} className="react-activity-calendar" >
-        <GitHubCalendar username="wave2211" blockSize={16} fontSize={16} />
+        <GitHubCalendar username="SagarikaNikhade" blockSize={16} fontSize={16} />
       </Flex>
       <Flex justifyContent={"center"} pb={6} pt={6}>
-        <Image  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wave2211&theme=dark"></Image>
+        <Image  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SagarikaNikhade&theme=dark"></Image>
       </Flex>
       <Flex justifyContent={"center"} pb={6} pt={6}>
-        <Image  id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=wave2211&theme=dark&show_icons=true"></Image>
+        <Image  id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=SagarikaNikhade&theme=dark&show_icons=true"></Image>
       </Flex>
       <Flex justifyContent={"center"} pb={6} pt={6}>
-        <Image   id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wave2211&layout=compact"></Image>
+        <Image   id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarikaNikhade&layout=compact"></Image>
       </Flex>
     </Box>
   );

@@ -22,7 +22,7 @@ export default function Introhome() {
   const handleClick = () => setClick(!click);
 
   function handleResume() {
-    window.open("https://drive.google.com/file/d/1wdvRe1jUn7x-yRxI1aFdAQcAx_ZP_UtJ/view?usp=sharing");
+    window.open("https://drive.google.com/file/d/1n_XGo64QxCUY8ecaUfluKzJlEssz3duz/view?usp=sharing");
    }
 
   useEffect(() => {
@@ -109,7 +109,7 @@ export default function Introhome() {
                 >
                   <a
                 //  href={SagarikaP} 
-                href="https://drive.google.com/file/d/1wdvRe1jUn7x-yRxI1aFdAQcAx_ZP_UtJ/view?usp=sharing"
+                href="https://drive.google.com/file/d/1n_XGo64QxCUY8ecaUfluKzJlEssz3duz/view?usp=sharing"
                  download={true} target='_blank'
                 id="resume-link-2"
                 onClick={click ? handleClick : null}

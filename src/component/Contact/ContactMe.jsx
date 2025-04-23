@@ -57,7 +57,7 @@ const Contact = () => {
               leftIcon={<MdPhone color="#1970F1" size="20px" />}
               id="contact-phone"
             >
-              +91-7744913501
+              +91-9307347736
             </Button>
             <Button
              id="contact-email"
@@ -104,7 +104,7 @@ const Contact = () => {
                 icon={<AiOutlineLinkedin size="28px" />}
               />
             </Link>
-            <Link  id="contact-github" href="https://github.com/wave2211" isExternal>
+            <Link  id="contact-github" href="https://github.com/SagarikaNikhade" isExternal>
               <IconButton
                 aria-label="github"
                 variant="ghost"

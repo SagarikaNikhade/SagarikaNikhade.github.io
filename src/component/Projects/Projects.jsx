@@ -14,7 +14,7 @@ const ProjectsDetails = [
     TECHSTACK: ["HTML", "CSS", "JavaScript"],
     DISCRIPTION:
       "Jefit is an award winning social workout tracking platform that keeps gym goers stay motivated by tracking and analyzing their fitness goals.",
-    GITHUB: "https://github.com/wave2211/Fitness-club--Jefit-clone",
+    GITHUB: "https://github.com/SagarikaNikhade/Fitness-club--Jefit-clone",
     DEPLOY: "https://zesty-strudel-fdfb40.netlify.app/",
   },
   {
@@ -24,7 +24,7 @@ const ProjectsDetails = [
     DISCRIPTION:
       "This is the clone of CraftVilla which is an e-commerce website providing fashion related products.",
     GITHUB:
-      "https://github.com/wave2211/Crafts-Bazzar--Craftsvilla-clone",
+      "https://github.com/SagarikaNikhade/Crafts-Bazzar--Craftsvilla-clone",
     DEPLOY: "https://genuine-bavarois-d93c8f.netlify.app/",
   },
   {
@@ -33,7 +33,7 @@ const ProjectsDetails = [
     TECHSTACK: ["HTML", "CSS", "JavaScript"],
     DISCRIPTION:
       "This is the clone of Uboric.com which is an e-commerce website.",
-    GITHUB: "https://github.com/wave2211/Uboric-clone",
+    GITHUB: "https://github.com/SagarikaNikhade/Uboric-clone",
     DEPLOY: "https://incredible-narwhal-e7792c.netlify.app/",
   },
   {
@@ -42,7 +42,7 @@ const ProjectsDetails = [
     TECHSTACK: ["CSS", "JavaScript","Chakra-UI","React"],
     DISCRIPTION:
       "This is the clone of Charlestyrwhitt.com is an e-commerce website.",
-    GITHUB: "https://github.com/wave2211/Royal-Outfizz--Charlestyrwhitt-clone",
+    GITHUB: "https://github.com/SagarikaNikhade/Royal-Outfizz--Charlestyrwhitt-clone",
     DEPLOY: "https://sprightly-clafoutis-01b434.netlify.app/",
   },
   {
@@ -51,7 +51,7 @@ const ProjectsDetails = [
     TECHSTACK: ["CSS", "JavaScript","Chakra-UI","React","Mongodb","Mongoose","Node"],
     DISCRIPTION:
       "Urban Ladder is an omnichannel furniture and decor retailer based out of Bangalore, India. ",
-    GITHUB: "https://github.com/wave2211/furniture--Urban_Ladder-clone",
+    GITHUB: "https://github.com/SagarikaNikhade/furniture--Urban_Ladder-clone",
     DEPLOY: "https://sensational-starship-ce568f.netlify.app/",
   },
   {
@@ -60,7 +60,7 @@ const ProjectsDetails = [
     TECHSTACK: ["CSS", "JavaScript","Chakra-UI","React","Redux"],
     DISCRIPTION:
       "Green-Planet is clone of Nurserylive, is a plant nursery store that provides wide range of natural plants and accessories products.",
-    GITHUB: "https://github.com/wave2211/green-planet--Nurserylive.com-clone",
+    GITHUB: "https://github.com/SagarikaNikhade/green-planet--Nurserylive.com-clone",
     DEPLOY: "https://storied-moonbeam-229d9d.netlify.app/",
   }
 ];

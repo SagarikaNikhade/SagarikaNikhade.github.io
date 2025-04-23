@@ -15,6 +15,9 @@ import postman from "./Skillslogo/newIcons/postman.png";
 import SkillsCard from "./SkillsCard";
 import VsCode from "./Skillslogo/newIcons/VsCode.png"
 import npm1 from "./Skillslogo/newIcons/npm1.png"
+import tailwind from "./Skillslogo/newIcons/tailwind.svg";
+import heroUI from "./Skillslogo/newIcons/heroUI.jpg";
+import netlify from "./Skillslogo/newIcons/netlify.png";
 
 const SkillsArray = [
   { src: html5, title: "HTML" },
@@ -28,44 +31,20 @@ const SkillsArray = [
   { src: ChakraUI, title: "Chakra UI" },
   { src: express, title: "Express JS" },
   { src: mongooseIcon, title: "Mongoose" },
+  { src: tailwind, title: "Tailwind CSS" },
+  { src: react, title: "React Native" },
+  { src: heroUI, title: "Next UI" },
 ];
 
 const ToolsArray = [
   { src: postman, title: "Postman" },
   { src: github, title: "GitHub" },
   {src:VsCode,title:"VScode"},
-  {src:npm1,title:"NPM"}
+  {src:npm1,title:"NPM"},
+  { src: netlify, title: "Netlify" },
 ];
 
 const Skills = () => {
-  // return (
-  //   <Box id="skills">
-  //   <Box style={{ backgroundColor: "#22201e" }} pt={10} id="Skills">
-  //     <Text color={" #2b6cb0"} fontSize={"lg"} textAlign="center">
-  //       What I know ?
-  //     </Text>
-  //     <Heading
-  //       fontSize={{ base: "xl", md: "2xl", lg: "5xl" }}
-  //       textAlign="center"
-  //     >
-  //       Tools & Technical Skills
-  //     </Heading>
-
-  //     <Box m={"auto"} border={"1px solid #2b6cb0"} w={"6%"} mb={3}></Box>
-     
-  //     <Box className="SkillContainer" z-index={1} margin="auto">
-  //       <SimpleGrid columns={{base:2, sm:2, md:4, lg:6}} >
-  //         {SkillsArray.map((el, i) => (
-  //           <Box  key={i}>
-  //             <SkillsCard IMAGE={el.src} title={el.title} />
-  //           </Box>
-  //         ))}
-  //       </SimpleGrid>
-  //     </Box>
-  //   </Box>
-  //   </Box>
-  // );
-
   return (
     <Box id="skills">
       <Box style={{ backgroundColor: "#22201e" }} pt={10} id="Skills">

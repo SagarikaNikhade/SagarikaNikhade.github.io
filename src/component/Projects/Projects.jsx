@@ -61,7 +61,7 @@ const ProjectsDetails = [
     DISCRIPTION:
       "Green-Planet is clone of Nurserylive, is a plant nursery store that provides wide range of natural plants and accessories products.",
     GITHUB: "https://github.com/SagarikaNikhade/green-planet--Nurserylive.com-clone",
-    DEPLOY: "https://storied-moonbeam-229d9d.netlify.app/",
+    DEPLOY: "https://frabjous-gecko-000ac5.netlify.app/",
   }
 ];
 

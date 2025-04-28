@@ -81,6 +81,19 @@ const Navbar = () => {
           </Box>
           <Box cursor={"pointer"}>
             <Link
+              className="nav-link experience"
+              to="Experience"
+              spy={true}
+              smooth={true}
+              offset={-40}
+              duration={500}
+              textDecoration="none"
+            >
+              Experience
+            </Link>
+          </Box>
+          <Box cursor={"pointer"}>
+            <Link
               className="nav-link projects"
               to="Projects"
               spy={true}

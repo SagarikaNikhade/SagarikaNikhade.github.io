@@ -3,6 +3,7 @@ import About from "./component/About Me/About";
 import Introhome from "./component/Home/Introhome";
 import { ColorfullCSS } from "./component/styles/styles";
 import Skills from "./component/Skills/Skills";
+import Experience from "./component/Experience/Experience";
 import Navbar from "./component/Navbar/navbar";
 import Contact from "./component/Contact/ContactMe";
 import { Box } from "@chakra-ui/react";
@@ -18,7 +19,7 @@ function App() {
         <Introhome />
         <About />
         <Skills />
-        
+        <Experience />
         <Projects /> 
         <GitHub />
        <Contact />

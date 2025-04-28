@@ -73,6 +73,18 @@ const NavbarDrawer = ({ isOpen, onOpen, onClose }) => {
             </Box>
             <Box cursor={"pointer"} mt="10px" mb="10px">
               <Link
+                to="Experience"
+                spy={true}
+                smooth={true}
+                offset={-40}
+                duration={500}
+                textDecoration="none"
+              >
+                Experience
+              </Link>
+            </Box>
+            <Box cursor={"pointer"} mt="10px" mb="10px">
+              <Link
                 to="Projects"
                 spy={true}
                 smooth={true}

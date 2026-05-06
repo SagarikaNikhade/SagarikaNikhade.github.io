@@ -12,7 +12,7 @@ const Navbar = () => {
     const handleClick = () => setClick(!click);
 
     function handleResume() {
-      window.open("https://drive.google.com/file/d/1jyf5wR40D-U4nZ8rR3Anpo8t0HNPHDYO/view?usp=sharing");
+      window.open("https://drive.google.com/file/d/1KNAfgsp2um0UJXAAUGDOail4tZhM63if/view?usp=sharing");
      }
 
   return (

@@ -6,6 +6,7 @@ import javascript from "./Skillslogo/newIcons/javascript.png";
 import mongodb from "./Skillslogo/newIcons/mongodb.png";
 import nodejs from "./Skillslogo/newIcons/nodejs.png";
 import react from "./Skillslogo/newIcons/react.png";
+import next from "./Skillslogo/newIcons/nextjs.jpeg";
 import redux from "./Skillslogo/newIcons/redux.png";
 import typescript from "./Skillslogo/newIcons/typescript.png";
 import ChakraUI from "./Skillslogo/newIcons/chakraUI.png";
@@ -18,6 +19,10 @@ import npm1 from "./Skillslogo/newIcons/npm1.png"
 import tailwind from "./Skillslogo/newIcons/tailwind.svg";
 import heroUI from "./Skillslogo/newIcons/heroUI.jpg";
 import netlify from "./Skillslogo/newIcons/netlify.png";
+import jira from "./Skillslogo/newIcons/jira.jpeg";
+import bitBucket from "./Skillslogo/newIcons/bitbucket.jpeg";
+import androidStudio from "./Skillslogo/newIcons/android studio.png";
+import trello from "./Skillslogo/newIcons/trello.png"
 
 const SkillsArray = [
   { src: html5, title: "HTML" },
@@ -26,6 +31,7 @@ const SkillsArray = [
   { src: mongodb, title: "MongoDb" },
   { src: nodejs, title: "NodeJs" },
   { src: react, title: "reactJs" },
+  { src: next, title: "nextJs" },
   { src: redux, title: "Redux" },
   { src: typescript, title: "TypeScript" },
   { src: ChakraUI, title: "Chakra UI" },
@@ -42,7 +48,15 @@ const ToolsArray = [
   {src:VsCode,title:"VScode"},
   {src:npm1,title:"NPM"},
   { src: netlify, title: "Netlify" },
+  { src: jira, title: "Jira" },
+  { src: bitBucket, title: "Bitbucket"},
+  { src: androidStudio, title: "androidStudi"},
+  { src: trello, title: "Trello"},
 ];
+
+const softSkillsArray = [
+  { src: "", title: "Communication skills" },
+]
 
 const Skills = () => {
   return (
@@ -89,6 +103,7 @@ const Skills = () => {
             ))}
           </SimpleGrid>
         </Box>
+
       </Box>
     </Box>
   );

@@ -23,6 +23,7 @@ import jira from "./Skillslogo/newIcons/jira.jpeg";
 import bitBucket from "./Skillslogo/newIcons/bitbucket.jpeg";
 import androidStudio from "./Skillslogo/newIcons/android studio.png";
 import trello from "./Skillslogo/newIcons/trello.png"
+import SoftSkills from "./SoftSkills";
 
 const SkillsArray = [
   { src: html5, title: "HTML" },
@@ -55,7 +56,11 @@ const ToolsArray = [
 ];
 
 const softSkillsArray = [
-  { src: "", title: "Communication skills" },
+  { title: "Eﬀective Communication" },
+  { title: "Teamwork"},
+  { title: "Attention to Detail"},
+  { title: "Adaptability"},
+  { title: "Time Management"},
 ]
 
 const Skills = () => {
@@ -99,6 +104,27 @@ const Skills = () => {
             {ToolsArray.map((el, i) => (
               <Box key={i}>
                 <SkillsCard IMAGE={el.src} title={el.title} />
+              </Box>
+            ))}
+          </SimpleGrid>
+        </Box>
+
+
+         <Heading
+          fontSize={{ base: "xl", md: "2xl", lg: "5xl" }}
+          textAlign="center"
+          mt={10}
+        >
+          Soft Skills
+        </Heading>
+
+        <Box m={"auto"} border={"1px solid #2b6cb0"} w={"6%"} mb={3}></Box>
+
+        <Box className="ToolContainer" zIndex={1} margin="auto">
+          <SimpleGrid columns={{ base: 2, sm: 2, md: 4, lg: 6 }}>
+            {softSkillsArray.map((el, i) => (
+              <Box key={i}>
+                <SoftSkills title={el.title} />
               </Box>
             ))}
           </SimpleGrid>

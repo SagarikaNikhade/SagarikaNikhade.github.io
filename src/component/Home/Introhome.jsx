@@ -21,9 +21,25 @@ export default function Introhome() {
   const [click, setClick] = React.useState(false);
   const handleClick = () => setClick(!click);
 
+  // function handleResume() {
+  //   window.open("https://drive.google.com/file/d/1KNAfgsp2um0UJXAAUGDOail4tZhM63if/view?usp=sharing");
+  // }
+
   function handleResume() {
-    window.open("https://drive.google.com/file/d/1KNAfgsp2um0UJXAAUGDOail4tZhM63if/view?usp=sharing");
-   }
+    // Opens resume in new tab to view
+    window.open(
+      "https://drive.google.com/file/d/1KNAfgsp2um0UJXAAUGDOail4tZhM63if/view?usp=sharing",
+      "_blank"
+    );
+
+    // Simultaneously triggers download
+    const link = document.createElement("a");
+    link.href = "https://drive.google.com/uc?export=download&id=1KNAfgsp2um0UJXAAUGDOail4tZhM63if";
+    link.download = "Sagarika_Nikhade_Resume.pdf";
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  }
 
   useEffect(() => {
     if (index < fullText.length) {
@@ -33,12 +49,6 @@ export default function Introhome() {
       }, 200);
     }
   }, [index]);
-
-
-  // const handleClick = () => {
-  //   window.open(Sagarika_Nikhade_Resume, "_blank", "noreferrer");
-  //   // return <Navigate to={Sagarika_Nikhade_Resume} />;
-  // };
 
   return (
     <Box id='home'>
@@ -95,9 +105,9 @@ export default function Introhome() {
                 spacing={6}
               >
 
-                 {" "}
+                {" "}
                 <Button
-                id="resume-button-2"
+                  id="resume-button-2"
                   // onClick={handleClick}
                   rounded={"full"}
                   bg={"#2b6cb0"}
@@ -108,15 +118,15 @@ export default function Introhome() {
                   onClick={handleResume}
                 >
                   <a
-                //  href={SagarikaP} 
-                href="https://drive.google.com/file/d/1KNAfgsp2um0UJXAAUGDOail4tZhM63if/view?usp=sharing"
-                 download={true} target='_blank'
-                id="resume-link-2"
-                onClick={click ? handleClick : null}
-              >
-                <DownloadIcon /> Resume
-              </a>
-      
+                    //  href={SagarikaP} 
+                    href="https://drive.google.com/file/d/1KNAfgsp2um0UJXAAUGDOail4tZhM63if/view?usp=sharing"
+                    download={true} target='_blank'
+                    id="resume-link-2"
+                    onClick={click ? handleClick : null}
+                  >
+                    <DownloadIcon /> Resume
+                  </a>
+
                 </Button>
 
                 <Link
